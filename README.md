@@ -1,5 +1,7 @@
 # Review my pull request
 
+Some change!
+
 A GitHub repository that serves the purpose of learning how use GitHub's code review feature for pull requests.
 
 # Usage
